@@ -22,7 +22,7 @@ __pycache__/
 # Python virtual environments
 .venv/
 venv/
-
+conmyenv/
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
@@ -93,10 +93,10 @@ coverage/
 .eslintcache
 
 # Optional REPL history
-.node_repl_history 
+.node_repl_history
 
 # LLM cache
 llm_cache.json
 
 # Output files
-output/
+# output/
